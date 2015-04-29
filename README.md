@@ -75,6 +75,11 @@ Bundlers and/or loaders must adhere to the following:
 
 Happy loading!
 
+## Mentions/Usage in the wild
+
+- [node-raw](https://github.com/tomekwi/node-raw)
+- [dynapack](https://github.com/bauerca/dynapack)
+
 # License
 
 MIT
